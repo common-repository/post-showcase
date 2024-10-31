@@ -1,0 +1,178 @@
+# Copyright (C) 2024 BeautifulPlugins
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Showcase 1.1.0\n"
+"Report-Msgid-Bugs-To: https://beautifulplugins.com/support/\n"
+"POT-Creation-Date: 2024-10-05 08:17:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Post Showcase"
+msgstr ""
+
+#: includes/Admin/Admin.php:50
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/Admin/Admin.php:55
+msgid "Post Showcase Settings"
+msgstr ""
+
+#: includes/Admin/Admin.php:56
+msgid "Configure the settings for the Post Showcase plugin."
+msgstr ""
+
+#: includes/Admin/Admin.php:80
+msgid "General Settings"
+msgstr ""
+
+#: includes/Admin/Admin.php:88
+msgid "Post Showcase Shortcode"
+msgstr ""
+
+#: includes/Admin/Admin.php:97
+msgid "Enable Shortcode"
+msgstr ""
+
+#: includes/Admin/Admin.php:106
+msgid "Post Type"
+msgstr ""
+
+#: includes/Admin/Admin.php:115
+msgid "Post Limit"
+msgstr ""
+
+#: includes/Admin/Admin.php:124
+msgid "Display Columns"
+msgstr ""
+
+#: includes/Admin/Admin.php:133
+msgid "Posts Orderby"
+msgstr ""
+
+#: includes/Admin/Admin.php:142
+msgid "Posts Order"
+msgstr ""
+
+#: includes/Admin/Admin.php:151
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/Admin/Admin.php:165
+msgid "Configure the Post Showcase general settings."
+msgstr ""
+
+#: includes/Admin/Admin.php:177
+msgid ""
+"Copy and paste the shortcode to display the Post Showcase content in "
+"multiple posts or pages. You can customize the shortcode attributes as "
+"needed and the default values will be used if the attribute is not provided."
+msgstr ""
+
+#: includes/Admin/Admin.php:192
+msgid "Enable to display the Post Showcase content via shortcode."
+msgstr ""
+
+#: includes/Admin/Admin.php:221
+msgid "No post types found."
+msgstr ""
+
+#: includes/Admin/Admin.php:226
+msgid "Chose the default post type to display. Default is posts."
+msgstr ""
+
+#: includes/Admin/Admin.php:240
+msgid ""
+"Enter the number of posts to display. Leave empty to display posts with the "
+"default limit. Default is 6."
+msgstr ""
+
+#: includes/Admin/Admin.php:254
+msgid ""
+"Enter the number of columns to display. Leave empty to display columns with "
+"the default limit. Default is 3."
+msgstr ""
+
+#: includes/Admin/Admin.php:269
+msgid "Date"
+msgstr ""
+
+#: includes/Admin/Admin.php:270
+msgid "Title"
+msgstr ""
+
+#: includes/Admin/Admin.php:271
+msgid "Menu Order"
+msgstr ""
+
+#: includes/Admin/Admin.php:272
+msgid "Random"
+msgstr ""
+
+#: includes/Admin/Admin.php:273
+msgid "Comment Count"
+msgstr ""
+
+#: includes/Admin/Admin.php:285
+msgid "Chose the default orderby option to display posts. Default is date."
+msgstr ""
+
+#: includes/Admin/Admin.php:300
+msgid "Ascending (ASC)"
+msgstr ""
+
+#: includes/Admin/Admin.php:301
+msgid "Descending (DESC)"
+msgstr ""
+
+#: includes/Admin/Admin.php:313
+msgid ""
+"Chose the default order option to display posts. Default is descending "
+"(DESC)."
+msgstr ""
+
+#: includes/Admin/Admin.php:327
+msgid ""
+"Enter the number of words to display in the excerpt. Leave empty to display "
+"the default excerpt length. Default is 20."
+msgstr ""
+
+#: includes/Controllers/Showcase.php:123
+msgid "Read more"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://beautifulplugins.com/post-showcase/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Post Showcase is a powerful and user-friendly WordPress plugin that allows "
+"you to display your posts in a grid layout."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "BeautifulPlugins"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://beautifulplugins.com"
+msgstr ""

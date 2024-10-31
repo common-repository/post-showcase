@@ -1,0 +1,35 @@
+{
+  "name": "beautifulplugins/post-showcase",
+  "description": "Post Showcase is a powerful and user-friendly WordPress plugin that allows you to display your posts in a grid layout.",
+  "homepage": "https://beautifulplugins.com/post-showcase/",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "prefer-stable": true,
+  "minimum-stability": "dev",
+  "repositories": [],
+  "require": {
+    "php": ">=7.4"
+  },
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "PostShowcase\\": [ "includes/" ]
+    }
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true,
+    "allow-plugins": {
+      "composer/*": true
+    }
+  },
+  "scripts": {
+    "post-install-cmd": [
+      "composer dump-autoload"
+    ],
+    "post-update-cmd": [
+      "composer dump-autoload"
+    ]
+  },
+  "extra": {}
+}
